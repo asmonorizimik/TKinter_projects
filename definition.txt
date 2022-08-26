@@ -1,0 +1,31 @@
+api: Application Programming Interface 
+tk: tollkit--the original GUI library for the Tcl language
+gui: Graphical User Interface--an interface through which a user interacts with electronic devices such as computers and smartphones 
+cui: Character User Interface-- character user interface or command-line user interface, CUI is a way for users to interact with computer programs.
+tcl: Tool Command Language--scripting language---high level general purpose interpreted programming language
+
+user interface:is basically the mean by which the user computer system can interact using the input and output devices
+gui and cui: cui user interacts with applications by making use of commands
+gui user interacts applications by making use of graphics. Only one task can run at a time
+
+
+tkinter: Tkinter is the standard GUI library for python. python when combine with Tkinter provides a fast and easy way to create GUI applications
+Tkinter provides a powerful object-oriented interface to the Tk GUI toolkit.
+
+library: collection of package and related modules. It contains bundles of code that can be used repeatedly in different programs.
+package: collection of related modules that aims to achiev a common gola
+
+Latest patch (8.6.12) released Nov 5 2021
+
+
+ttk:ttk is a module that is used to style the tkinter widgets
+
+Tkinter Widgets. Tkinter provides various controls, such as buttons, labels and text boxes used in a GUI application. 
+
+
+Modules are simply files with the “. py” extension containing Python code that can be imported inside another Python Program.
+
+A python package is a collection of modules. Modules that are related to each other are mainly put in the same package. 
+
+
+A Python library is a collection of related modules. It contains bundles of code that can be used repeatedly in different programs.
